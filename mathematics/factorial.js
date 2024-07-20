@@ -13,6 +13,10 @@ function factorial(n) {
 }
 
 /**
+ * Time Complexity: Theta(n)
+ */
+
+/**
  * Effective Solution
  */
 // function factorial(n) {
@@ -20,6 +24,10 @@ function factorial(n) {
 
 //     return n * factorial(n - 1);
 // }
+
+/**
+ * Time Complexity: T(n) = T(n - 1) + Theta(1)
+ */
 
 const result = factorial(3);
 console.log(result);
