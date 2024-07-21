@@ -8,3 +8,4 @@
 
 ### Sorting
 - [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/bubbleSort.js)
+- [Selection Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/selectionSort.js)
