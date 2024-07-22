@@ -7,6 +7,10 @@
 - [Factorial of a Number](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/factorial.js)
 
 ### Sorting
-- [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/bubbleSort.js)
-- [Selection Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/selectionSort.js)
-- [Insertion Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/insertionSort.js)
+- [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/bubbleSort.js)
+- [Selection Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/selectionSort.js)
+- [Insertion Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/insertionSort.js)
+- [Sort The People](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/sortThePeople.js)
+
+### Recursion
+- [Print Number](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/recursion/printNumber.js)
