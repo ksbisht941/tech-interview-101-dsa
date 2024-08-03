@@ -15,3 +15,6 @@
 
 ### Recursion
 - [Print Number](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/recursion/printNumber.js)
+
+### Two Pointers
+- [Contain With Most Water](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/two-pointers/containMostWater.js)
