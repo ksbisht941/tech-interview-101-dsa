@@ -6,6 +6,7 @@
 - [Check the Prime](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/isPrime.js)
 - [Factorial of a Number](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/factorial.js)
 - [Power of Number](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/powerOfNumbers.js)
+- [Reverse Digit](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/mathematics/reverseDigit.js)
 
 ### Sorting
 - [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/bubbleSort.js)
@@ -18,3 +19,8 @@
 
 ### Two Pointers
 - [Contain With Most Water](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/two-pointers/containMostWater.js)
+- [Triplet Sum in Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/two-pointers/tripletSumInArray.js)
+
+### Two Pointers
+- [Contain With Most Water](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/two-pointers/containMostWater.js)
+- [Triplet Sum in Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/two-pointers/tripletSumInArray.js)
