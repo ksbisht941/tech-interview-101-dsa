@@ -1,0 +1,46 @@
+- In simple words, it is an optimization of plain recursion.
+- The idea is to reuse the solutions of subproblem when they are overlapping subproblems.
+
+Memorization (Top Down)
+Tabulation (Bottom Up)
+
+Applications
+- Bellman Form Algorithm (find shortest path from all the destination)
+- Floyd Warshall Algorithm (find shortest path between every pair of vertices in graph)
+- Diff Utility (git diff, Longest common subsequence)
+- Search Closed Words (Smart Search, Edit Distance)
+- Resouce Allocation (0-1 Knapsack)
+
+// Using Recursion
+int fib (int n) 
+    if (n == 0 || n == 1) return n;
+    else return fib(n - 1) + fib(n - 2);
+
+// Using Memorization
+int memo = new Array(n + 1).fill(-1);
+int fib (int n) 
+    if (memp[n] == -1)
+        int res;
+        if (n == 0 || n == 1) res = n;
+        else res = fib(n - 1) + fib (n - 2)
+        memo[n] = res;
+    return memo[n];
+
+// Using Tabulation
+int fib (int n) 
+    int f[n + 1];
+    f[0] = 0, f[1] = 1;
+
+    for (int idx = 2; idx <= n; idx++) 
+        f[idx] = f[idx - 1] + f[idx - 2];
+
+    return f[n];
+
+Variations of Longest Common Subsequence
+- diff Utility
+- minimum insertions and deletion to convert s1 into s2
+- shortest common subsequence
+- longest palindromic subsequence
+- longest repeating subsequence
+- space optimized DP solution of LCS
+- printing LCS

@@ -1,0 +1,7 @@
+Merge Sort
+- Divide and Conquer Algorithm
+- Stable Algorithm
+- Ø(n logn) time and O(n) aux space
+- Well suited for linked lists works in O(1) aux space
+- Used in external sorting
+- I general for arrays, quick sort outperforms it
