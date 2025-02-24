@@ -5,3 +5,39 @@ Merge Sort
 - Well suited for linked lists works in O(1) aux space
 - Used in external sorting
 - I general for arrays, quick sort outperforms it
+
+// Naive Solution
+void merge (int a[], int b[], int m, int n)
+    int c[m+n];
+    for (int idx = 0; idx < m; idx++)
+        c[idx] = a[idx];
+    
+    for (int idx = 0; idx < n; idx++)
+        c[idx + m] = b[idx];
+
+    sort(c, c + m + n);
+
+    for (int idx = 0; idx < (m + n); idx++)
+        cout << c[idx] << " ";
+
+
+// Efficient Solution
+void merge (int a[], int b[], int m, int n)
+    int idx = 0, jdx = 0;
+    while (idx < m && jdx < n)
+        if (a[idx] <= b[jdx]) cout << a[idx] << " "; idx++;
+        else cout << b[jdx] << " "; jdx++;
+
+    while (idx < m)
+        cout << a[idx] << " "; idx++;
+
+    while (jdx < n)
+        cout << b[jdx] << " "; jdx++;
+
+void mergeSort (int arr[], int l, int r)
+    if (r > l) 
+        int m = l + (r - 1) / 2;
+        mergeSort(arr, l, m);
+        mergeSort(arr, m + 1, r);
+        merge(arr, l, m, r);
+
