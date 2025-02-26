@@ -6,6 +6,12 @@ function intersectionArray(arrA, arrB) {
     const result = [];
     
     while (idx < arrA.length && jdx < arrB.length) {
+
+        if (idx > 0 && arrA[idx] == arrA[idx - 1]) {
+            idx++;
+            continue;
+        }
+        
         if (arrA[idx] == arrB[jdx]) {
             result.push(arrA[idx]);
             idx++;
