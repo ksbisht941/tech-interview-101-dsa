@@ -12,10 +12,10 @@
 
 ## Sorting
 
-- [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/bubbleSort.js)
-- [Selection Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/selectionSort.js)
-- [Insertion Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/insertionSort.js)
-- [Sort The People](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/sortThePeople.js)
+- [Bubble Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/bubble-sort.js)
+- [Selection Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/selection-sort.js)
+- [Insertion Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/insertion-sort.js)
+- [Sort The People](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/sort-the-people.js)
 
 ## Recursion
 
