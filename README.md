@@ -34,3 +34,4 @@
 
 - [Largest Element In Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/largest-element.js)
 - [Second Largest Element In Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/second-largest-element.js)
+- [Check Sorted Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/is-sorted.js)
