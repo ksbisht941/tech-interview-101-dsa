@@ -41,3 +41,4 @@
 
 - [Print Snake Pattern](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/snake-pattern.js)
 - [Print Boundary Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/boundary-element.js)
+- [Transpose Matrix](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/transpose-matrix.js)
