@@ -35,3 +35,9 @@
 - [Largest Element In Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/largest-element.js)
 - [Second Largest Element In Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/second-largest-element.js)
 - [Check Sorted Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/is-sorted.js)
+- [Merge Overlay Intervals](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/array/merge-overlay-intervals.js)
+
+## Matrix
+
+- [Print Snake Pattern](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/snake-pattern.js)
+- [Print Boundary Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/boundary-element.js)
