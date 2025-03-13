@@ -45,3 +45,10 @@
 - [Print Boundary Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/boundary-element.js)
 - [Transpose Matrix](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/transpose-matrix.js)
 - [Rotate Matrix 90 Degree](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/rotate-matrix-90.js)
+
+## Patterns
+
+- [hollow-right-triangle](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/hollow-right-triangle.js)
+- [hollow-square](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/hollow-square.js)
+- [rhombus](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/rhombus.js)
+- [square](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/square.js)
