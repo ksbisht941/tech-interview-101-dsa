@@ -52,3 +52,4 @@
 - [hollow-square](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/hollow-square.js)
 - [rhombus](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/rhombus.js)
 - [square](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/square.js)
+- [Pyramid](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/pyramid.js)
