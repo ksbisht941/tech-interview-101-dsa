@@ -45,6 +45,7 @@
 - [Print Boundary Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/boundary-element.js)
 - [Transpose Matrix](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/transpose-matrix.js)
 - [Rotate Matrix 90 Degree](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/rotate-matrix-90.js)
+- [Matrix Search](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/matrix/matrix-search.js)
 
 ## Patterns
 
