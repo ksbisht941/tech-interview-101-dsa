@@ -1,7 +1,6 @@
 const { LinkedList, Node } = require('./setup');
 
 function insertLinkedList(list, pos, value) {
-    const node = new Node(value);
     let temp = list.head;
 
     let idx = 1;

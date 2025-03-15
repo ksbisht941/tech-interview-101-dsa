@@ -62,3 +62,4 @@
 - [Insert End Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-end-linked-list.js)
 - [Traverse Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/traverse-linked-list.js)
 - [Insert At Point Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-at-point-linked-list.js)
+- [Delete Node Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/delete-linked-list.js)
