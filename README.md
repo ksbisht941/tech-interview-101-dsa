@@ -55,3 +55,9 @@
 - [square](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/square.js)
 - [Pyramid](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/pyramid.js)
 - [Inverted Right Triangle](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/patterns/inverted-right-triangle.js)
+
+## Linked List
+
+- [Insert Begin Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-begin-linked-list.js)
+- [Insert End Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-end-linked-list.js)
+- [Traverse Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/traverse-linked-list.js)
