@@ -1,5 +1,13 @@
 const { LinkedList, Node } = require('./setup');
 
+// At start
+// function insertLinkedList(list, value) {
+//     const node = new Node(value);
+//     node.next = list.head;
+//     list.head = node;
+// }
+
+// At End
 function insertLinkedList(list, value) {
     const node = new Node(value);
     let temp = list.head;
