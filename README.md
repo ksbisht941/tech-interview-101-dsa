@@ -64,3 +64,4 @@
 - [Delete Node Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/delete-linked-list.js)
 - [Search Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/search-linked-list.js)
 - [Insert Doubly Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-doubly-linked-list.js)
+- [Reverse Doubly Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/reverse-linked-list.js)
