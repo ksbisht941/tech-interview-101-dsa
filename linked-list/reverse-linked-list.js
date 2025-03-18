@@ -1,4 +1,4 @@
-const { LinkedList } = require('./setup');
+const { DoublyLinkedList } = require('./setup');
 
 function reverseLinkedList(list) {
     // Start with the head of the list
@@ -30,17 +30,17 @@ function reverseLinkedList(list) {
     list.head = prev;
 }
 
-const list = new LinkedList();
+const list = new DoublyLinkedList();
 list.append(10);
 list.append(20);
 list.append(30);
 list.append(40);
 list.append(50);
-list.print();
+list.printForward();
 
 reverseLinkedList(list);
 
-list.print();
+list.printForward();
 
 // 10 -> 20 -> 30 -> 40 -> 50 -> null
 // 50 -> 40 -> 30 -> 20 -> 10 -> null
