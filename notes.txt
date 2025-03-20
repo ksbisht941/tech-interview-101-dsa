@@ -1,0 +1,133 @@
+Syllabus
+
+Welcome & Module 1: Angular Architecture Essentials
+
+Reading: Meet your Instructor
+
+Video: Instructor Welcome and Course Overview
+
+Reading: Syllabus
+
+Lesson 1: Angular Modularity & NgModule
+
+Video: Angular Modules
+
+Video: NgModule in Depth
+
+Reading: Containers vs Components in Angular
+
+Lesson 1 Quiz: Angular Modularity
+
+Lesson 2: Angular Services
+
+Video: Angular Services
+
+Reading: A Comprehensive Guide to Angular Services
+
+Activity: Key Benefits of Angular Services
+
+Lesson 2 Quiz: Angular Services
+
+Lesson 3: Dependency Injection
+
+Video: Dependency Injection in Angular
+
+Reading: Angular Dependency Injection
+
+Activity: Dependency Injection in Angular
+
+Quiz: Lesson 3: Dependency Injection
+
+Module 1 Wrap-Up
+
+Discussion: Dependency Injection
+
+Demonstration Video: Angular Services
+
+Exam: Module 1: Angular Architecture Essentials
+
+Module 2: Reactive Programming in Angular
+
+Lesson 1: Writing Observables in Angular
+
+Video: Writing Observables in Angular
+
+Reading: RxJs and Observables
+
+Activity: Subjects in Angular
+
+Quiz: Lesson 1: Observables in Angular
+
+Lesson 2: Angular Lifecycle Hooks
+
+Video: Angular Lifecycle Hooks
+
+Reading: Angular Lifecycle Hooks in Depth
+
+Activity: Angular Lifecycle Hooks
+
+Quiz: Lesson 2: Angular Lifecycle Hooks
+
+Lesson 3: Making HTTP Requests in Angular
+
+Video: Making HTTP Requests in Angular
+
+Reading: HTTP Requests in Angular
+
+Activity: HTTPClient Service Best Practices
+
+Quiz: Lesson 3: Making HTTP Requests in Angular
+
+Module 2 Wrap-Up
+
+Discussion: Utilizing Lifecycle Hooks
+
+Demonstration Video: Lifecycle Hooks Part 1
+
+Exam: Module 2: Reactive Programming in Angular
+
+Module 3:  Angular Deployment Essentials
+
+Lesson 1: Dynamic Components in Angular
+
+Video: Dynamic Components in Angular
+
+Reading: When to Use Angular's Dynamic Components
+
+Activity: Key Terms: Dynamic Components in Angular
+
+Quiz: Lesson 1: Dynamic Components in Angular
+
+Lesson 2: Server-Side Rendering in Angular
+
+Video: Server-Side Rendering in Angular
+
+Reading: Angular 17: Server-Side Rendering Explained
+
+Activity: Enabling SSR in an Angular Application
+
+Quiz: Lesson 2: Server-Side Rendering in Angular 
+
+Lesson 3: Building and Publishing an Angular App 
+
+Video: Building & Publishing an Angular App
+
+Reading: CI/CD for Angular
+
+Activity: Building an Angular Application
+
+Quiz: Lesson 3: Building and Publishing an Angular App 
+
+Module 3 Wrap-Up
+
+Discussion: Dynamic Components & SSR in Angular Applications
+
+Demonstration Video: Lifecycle Hooks Part 2
+
+Exam: Module 3: Angular Deployment Essentials
+
+Course 3 Wrap-Up
+
+Reading: Course 3 - Key Takeaways
+
+Video: Congratulations
