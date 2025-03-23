@@ -1,0 +1,23 @@
+✅ Built-in Map (like HashMap)
+const map = new Map();
+map.set('name', 'Alice');
+map.set('age', 25);
+
+console.log(map.get('name'));  // Alice
+console.log(map.has('age'));   // true
+
+map.delete('age');
+console.log(map.has('age'));   // false
+
+
+✅ Built-in Set (like HashSet)
+const set = new Set();
+set.add(10);
+set.add(20);
+set.add(10);  // Duplicate ignored
+
+console.log(set.has(10));  // true
+console.log(set.has(30));  // false
+
+set.delete(10);
+console.log(set.has(10));  // false
