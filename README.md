@@ -18,6 +18,7 @@
 - [Sort The People](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/sort-the-people.js)
 - [Count Inversion](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/count-inversion.js)
 - [Frequency Sort](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/frequency-sort.js)
+- [Lomuto Partition](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/sorting/lomuto-partition.js)
 
 ## Recursion
 
