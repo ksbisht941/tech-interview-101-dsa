@@ -68,3 +68,7 @@
 - [Insert Doubly Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/insert-doubly-linked-list.js)
 - [Reverse Doubly Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/reverse-linked-list.js)
 - [Delete Doubly Linked List](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/delete-doubly-linked-list.js)
+
+## Hashing
+
+- [Count Distinct Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/count-distinct-element.js)
