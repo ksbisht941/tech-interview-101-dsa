@@ -1,0 +1,96 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f4f4f9;
+    color: #333;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 500px;
+}
+
+/* Title */
+h1 {
+    font-size: 2.5rem;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+/* Status display */
+#status {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+/* Tic-Tac-Toe board */
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    background: #f0f0f0;
+    border: 2px solid #ccc;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.cell:hover {
+    background: #e0e0e0;
+}
+
+.cell.winning {
+    background: #4caf50;
+    /* Green highlight for winning cells */
+    color: #fff;
+}
+
+/* Restart Button */
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    color: #fff;
+    background: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .cell {
+        width: 80px;
+        height: 80px;
+        font-size: 1.5rem;
+    }
+}

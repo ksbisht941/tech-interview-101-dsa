@@ -1,0 +1,116 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f4f4f9;
+    color: #333;
+  }
+  
+  .container {
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 800px;
+  }
+  
+  /* Title */
+  h1 {
+    font-size: 2.5rem;
+    color: #444;
+    margin-bottom: 20px;
+  }
+  
+  /* Controls */
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    margin-right: 10px;
+  }
+  
+  input {
+    width: 60px;
+    padding: 8px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin: 5px;
+  }
+  
+  button:hover {
+    background: #45a049;
+  }
+  
+  button#reset-btn {
+    background: #f44336;
+  }
+  
+  button#reset-btn:hover {
+    background: #d32f2f;
+  }
+  
+  /* Board Container */
+  .board-container {
+    display: grid;
+    gap: 5px;
+    margin: 20px auto;
+    max-width: 600px;
+    border: 2px solid #333;
+  }
+  
+  /* Board Cells */
+  .cell {
+    width: 100%;
+    aspect-ratio: 1;  /* Square cells */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    transition: background 0.3s;
+  }
+  
+  .cell.light {
+    background: #f0d9b5;  /* Light square */
+  }
+  
+  .cell.dark {
+    background: #b58863;  /* Dark square */
+  }
+  
+  /* Queen styling */
+  .cell.queen {
+    color: #d32f2f;  /* Red color for queen */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    button, input {
+      padding: 8px 16px;
+      font-size: 14px;
+    }
+  }
+  
