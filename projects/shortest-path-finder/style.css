@@ -1,0 +1,112 @@
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f4f9;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: auto;
+    max-width: 800px;
+}
+
+/* Title */
+h1 {
+    font-size: 2.2rem;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+/* Grid Styles */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(20, 30px);
+    grid-template-rows: repeat(20, 30px);
+    gap: 2px;
+    margin: 20px 0;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    border: 1px solid #ccc;
+    transition: background 0.3s;
+}
+
+.cell.start {
+    background: #4CAF50;
+    /* Green */
+}
+
+.cell.end {
+    background: #f44336;
+    /* Red */
+}
+
+.cell.path {
+    background: #2196F3;
+    /* Blue */
+}
+
+.cell.wall {
+    background: #333;
+    /* Obstacle */
+}
+
+/* Buttons */
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    color: #fff;
+    background: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin: 5px;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+button#reset-btn {
+    background: #f44336;
+}
+
+button#reset-btn:hover {
+    background: #d32f2f;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: repeat(10, 30px);
+        grid-template-rows: repeat(10, 30px);
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
