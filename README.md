@@ -74,3 +74,10 @@
 
 - [Count Distinct Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/count-distinct-element.js)
 - [Intersaction of two unsorted Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/intersaction-array.js)
+
+## Projects
+
+- [N Queens Visualizer](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/projects/n-queens-visualizer)
+- [Sudoku Solver](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/projects/sudoku)
+- [Tic Tac Toe](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/projects/tic-tac-toe)
+- [Shortest Path Finder](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/projects/shortest-path-finder)
