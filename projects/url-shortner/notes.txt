@@ -1,0 +1,53 @@
+Functional
+- Shorten
+- Redirection
+- Expiry
+
+Non Functional
+- Highly available
+- Low latency
+- URL's should not be predictable
+
+Estimating the System Requirement
+- Read heavy or Write heavy
+- Every month - 1 million new URLs and 100 million redirections
+- Query per second (50 quer/sec)
+- Expiry 10 years (10,00,000 * 12 * 10 * 50(size of 1 url))
+- RAM (1 day TTL)
+- Caching (1.25 million * 500 bytes = 1GB)
+
+Design Goal
+- Read intensive
+- Highly available
+- Low latency
+- Security (not everybody can shorten url)
+
+High Level Design
+- APIs
+    *  String shortenUrl(String originalUrl, long userId, String apiKey, Date expiry);
+    * Boolean deleteUrl(String apiKey, String originalUrl, String shortUrl);
+    * signup, login, logout
+    * redirections
+
+- Database
+    * MongoDB (Scalable, high availablity)
+    * URL
+        original_url
+        shorten_url
+        user_id
+        expiry_date
+        created_at
+
+    * User
+        user_id
+        name
+        email
+        api_key
+        created_at
+
+- Algorithm
+    * long -> shorten
+    * avoid collisions
+
+- Design
+    
