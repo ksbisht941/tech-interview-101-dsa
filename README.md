@@ -75,6 +75,7 @@
 - [Count Distinct Element](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/count-distinct-element.js)
 - [Intersaction of two unsorted Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/intersaction-array.js)
 - [Union Unsorted Array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/union-unsorted-array.js)
+- [Pair with given sum in unsorted array](https://github.com/ksbisht941/tech-interview-101-dsa/blob/master/linked-list/pair-sum.js)
 
 ## Projects
 
